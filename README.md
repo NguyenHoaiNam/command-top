@@ -24,22 +24,22 @@ Bảng hiển thị câu lệnh top:
 - Dòng 2:
 
 <img class="image__pic js-image-pic" src="http://i.imgur.com/SlBNAql.png" alt="" id="screenshot-image">
-  - Tổng số tiến trình
-  - Số tiến trình đang chạy 
-  - Số tiến trình đang chờ
-  - Số tiến trình đã dừng
-  - Số tiến trình đang chờ dừng
+  - Tổng số tiến trình (94 total) 
+  - Số tiến trình đang chạy (1 running)
+  - Số tiến trình đang chờ (93 sleeping)
+  - Số tiến trình đã dừng (0 stopped)
+  - Số tiến trình đang chờ dừng (0 zombie)
 
 - Dòng 3:
 
 <img class="image__pic js-image-pic" src="http://i.imgur.com/UXByCkI.png" alt="" id="screenshot-image">
-  - Phần trăm CPU sử dụng cho người dùng
-  - Phần trăm CPU sử dụng cho hệ thống
-  - Phần trăm CPU sử dụng cho tiến trình update
-  - Phần trăm CPU không sử dụng
-  - Phần trăm CPU đợi các tiến trình I/O của hệ thống
-  - Phần trăm CPU sử dụng giao tiếp với phần cứng
-  - Phần trăm CPU sử dụng giao tiếp với phần mềm
+  - Phần trăm CPU sử dụng cho người dùng (0.0%us)
+  - Phần trăm CPU sử dụng cho hệ thống (0.0%sy)
+  - Phần trăm CPU sử dụng cho tiến trình update (0.0%ni)
+  - Phần trăm CPU không sử dụng (%99.7id)
+  - Phần trăm CPU đợi các tiến trình I/O của hệ thống (0.3wa%)
+  - Phần trăm CPU sử dụng giao tiếp với phần cứng (0.0%hi)
+  - Phần trăm CPU sử dụng giao tiếp với phần mềm (0.0%si)
   - 
   
 - Dòng 4,5:
@@ -75,5 +75,5 @@ Thể hiện mức sử dụng của RAM và swap
 
 [Link2:](http://www.tecmint.com/12-top-command-examples-in-linux/)
 
-Liên hê:
-Hoài Nam: skype: namptit307
+Liên hệ:
+skype: namptit307
