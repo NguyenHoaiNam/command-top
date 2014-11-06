@@ -69,6 +69,7 @@ Thể hiện mức sử dụng của RAM và swap
 *Tôi sẽ bổ sung phần này trong thời gian tiếp theo*
 
 **Link tham khảo:**
+
 [Link1:](http://linux.about.com/od/commands/l/blcmdl1_top.htm)
 
 [Link2:](http://www.tecmint.com/12-top-command-examples-in-linux/)
