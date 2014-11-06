@@ -4,11 +4,12 @@ y-nghia-cau-lenh-top
 Xin chào các bạn. Bài viết này tôi xin giới thiệu về câu lệnh top và ý nghĩa của nó trong việc monitor hệ thống. Giúp các bạn hiểu hơn về từng dòng hiện thị khi dùng lệnh `top`.
 
 
-##### 1. Giới thiệu: Trong việc quan trị hệ thống Linux nhưng thông tin về RAM, CPU các tiến trình đang chạy rất cần thần thiết đối với một người quản trị và để giúp chúng ta có thể xem được những thông số đó người quản trị sẽ sử dụng dụng câu lệnh `top`.
+##### 1. Giới thiệu: 
+Trong việc quản trị hệ thống Linux nhưng thông tin về RAM, CPU các tiến trình đang chạy rất cần thần thiết đối với một người quản trị và để giúp chúng ta có thể xem được những thông số đó người quản trị sẽ sử dụng dụng câu lệnh `top`.
 
 ##### 2. Ý nghĩa từng dòng trong bản hiện thị câu lệnh `top`
 
-Bảng hiện thị câu lệnh top sẽ như này:
+Bảng hiển thị câu lệnh top:
 
 <img class="image__pic js-image-pic" src="http://i.imgur.com/3vGe3Mw.png" alt="" id="screenshot-image">
 
