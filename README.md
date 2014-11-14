@@ -1,4 +1,4 @@
-y-nghia-cau-lenh-top
+command top
 ====================
 
 Xin chào các bạn. Bài viết này tôi xin giới thiệu về câu lệnh top và ý nghĩa của nó trong việc monitor hệ thống. Giúp các bạn hiểu hơn về từng dòng hiện thị khi dùng lệnh `top`.
